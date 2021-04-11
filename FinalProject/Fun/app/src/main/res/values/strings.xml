@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Fun</string>
-    <string name="button_1">II</string>
-    <string name="button_2">Open file...</string>
-    <string name="toast_play">Play!</string>
-    <string name="toast_pause">Pause!</string>
-</resources>

@@ -8,3 +8,6 @@ Features:
 3. Skip forward/backward 10 seconds
 4. Modify playback speed
 5. Modify frequency
+
+
+The Java source files are in the Source folder for quick reference.
